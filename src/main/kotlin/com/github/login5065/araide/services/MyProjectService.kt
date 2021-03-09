@@ -1,7 +1,7 @@
-package org.jetbrains.plugins.template.services
+package com.github.login5065.araide.services
 
+import com.github.login5065.araide.MyBundle
 import com.intellij.openapi.project.Project
-import org.jetbrains.plugins.template.MyBundle
 
 class MyProjectService(project: Project) {
 

@@ -1,4 +1,4 @@
-package org.jetbrains.plugins.template
+package com.github.login5065.araide
 
 import com.intellij.AbstractBundle
 import org.jetbrains.annotations.NonNls
